@@ -1,0 +1,30 @@
+/summon FallingSand ~ ~1 ~ 
+{Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~5 ~-3 ~5 ~15 ~4 ~15 planks 0 hollow},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~9 ~-1 ~14 torch 4},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~11 ~-2 ~14 torch 4},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~9 ~-3 ~6 torch 3},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~11 ~-4 ~6 torch 3},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~14 ~-5 ~11 torch 2},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~14 ~-6 ~9 torch 2},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~6 ~-7 ~11 torch 1},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~6 ~-8 ~9 torch 1},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~4 ~-9 ~11 torch 2},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~4 ~-10 ~9 torch 2},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~14 ~-14 ~14 ~14 ~-14 ~13 chest},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~5 ~-10 ~5 ~15 ~-10 ~15 stone_slab 3},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~14 ~-16 ~6 crafting_table},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~10 ~-17 ~7 bed 2},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~10 ~-18 ~6 bed 10},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~6 ~-20 ~6 ~14 ~-20 ~14 cobblestone},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~5 ~-18 ~7 ~5 ~-18 ~8 glass_pane},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~5 ~-19 ~12 ~5 ~-19 ~13 glass_pane},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~15 ~-20 ~7 ~15 ~-20 ~8 glass_pane},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~15 ~-21 ~12 ~15 ~-21 ~13 glass_pane},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~7 ~-22 ~5 ~8 ~-22 ~5 glass_pane},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~12 ~-23 ~5 ~13 ~-23 ~5 glass_pane},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~7 ~-24 ~15 ~8 ~-24 ~15 glass_pane},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~12 ~-25 ~15 ~13 ~-25 ~15 glass_pane},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~5 ~-28 ~10 dark_oak_door 0},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~5 ~-28 ~10 dark_oak_door 8},Passengers:[{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~ ~-30 ~-1 ~ ~40 ~-1 redstone_block},Passengers:[{id:FallingSand,Block:redstone_block,Time:1}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}
